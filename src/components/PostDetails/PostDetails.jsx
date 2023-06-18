@@ -37,7 +37,7 @@ const Post = () => {
         );
     }
 
-    const recommendedPosts = posts.filter(({ _id }) => _id !== post._id); //what does this logic do??
+    const recommendedPosts = posts.filter(({ _id }) => _id !== post._id);
     console.log(recommendedPosts);
 
     return (

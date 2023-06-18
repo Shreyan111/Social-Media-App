@@ -1,6 +1,6 @@
-# Memories
+# CampusWire
 
-Memories is a Social Media website that is developed using MERN
+CampusWire is a Social Media website that is developed using MERN
 Stack so that people can post their memories of travelling to different
 places and can be viewed by other users. It has features such as creating, reading, updating your posts along with which it will also give you an option to see the reccomended posts. Searching of the posts by name and tags can also be performed here.
 <br>
